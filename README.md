@@ -1,5 +1,14 @@
 ### Introduction
 
+This project is for the second programming assignment required for
+John Hopkings R Programming class. The readme below is just a 
+copy from Dr. Peng's github. The cachematrix.R file contains
+the required code for this assignment.
+
+The text below is from Dr Roger Peng's github with no edits made
+by me.
+-----------------------------------------
+
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
